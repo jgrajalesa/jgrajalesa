@@ -1,5 +1,5 @@
 ## Hi there 👋
-I haven't thought about what to put here
+I haven't thought about what to put here. My portfolio is on private repositories.
 <!--
 **jgrajalesa/jgrajalesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
