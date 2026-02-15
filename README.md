@@ -1,5 +1,6 @@
-## Hi there 👋
-I haven't thought about what to put here. My portfolio is on private repositories.
+Hola, me gusta crear apps y páginas web. También el ajedrez y más cositas. Estudio en la nacho y estoy abierto a ser contactado/contratado para programar. También sé manejar Excel 10/10
+
+¡Visita mi tienda! https://juanshop.vercel.app
 <!--
 **jgrajalesa/jgrajalesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
